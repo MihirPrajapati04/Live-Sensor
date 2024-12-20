@@ -8,4 +8,4 @@ PyYAML
 dill
 scipy 
 imblearn==0.0
--e . 
+-e .   #editable mode 
