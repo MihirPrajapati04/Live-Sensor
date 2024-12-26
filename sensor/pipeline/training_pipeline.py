@@ -12,6 +12,8 @@ from sensor.components.model_pusher import ModelPusher
 
 
 class TrainPipeline:
+    
+    is_pipeline_running=False
 
     def __init__(self):
         self.training_pipeline_config = TrainingPipelineConfig()
