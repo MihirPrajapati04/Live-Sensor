@@ -156,6 +156,7 @@ cython_debug/
 
 # articats added in the gitignore
 artifacts/
+saved_models/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
