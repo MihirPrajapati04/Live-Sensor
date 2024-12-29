@@ -1,2 +1,2 @@
-TRAINING_BUCKET_NAME = "sensor-live-bucket"   
-PREDICTION_BUCKET_NAME = "sensor-datasource"
+TRAINING_BUCKET_NAME = "live-sensor-bucket"   
+PREDICTION_BUCKET_NAME = "live-sensor-prediction-bucket"
